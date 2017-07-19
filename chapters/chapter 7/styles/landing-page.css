@@ -29,6 +29,7 @@ a {
   position: absolute;
   right: 0px;
   color: white;
+  z-index: 10;
 }
 
 .slack-channel {
